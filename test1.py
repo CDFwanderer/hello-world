@@ -8,3 +8,5 @@ X = True
 
 if x is True:
     print("Yadayada!")
+
+y = input("y = user's input ")
